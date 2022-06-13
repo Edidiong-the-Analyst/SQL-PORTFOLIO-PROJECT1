@@ -1,2 +1,2 @@
 # SQL-PORTFOLIO-PROJECT
-This is a query showing data about the covid crisis all over the world, ranging from total cases, death percentage, etc.
+This is a query showing different SQL skills ranging from Data Exploration to Data Cleaning and Using the Query to develop Tableau Presentation.
